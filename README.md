@@ -1,17 +1,16 @@
-# Quiz-App-AAiTMobileProgramingII
-# Group Members
-Dagmawi Amanuel ATR/3479/10 
-Surafel Wondemagegnehu ATR/6435/10
-Tinsae Tesfaye ATR/4002/10
-Wesen Tadesse ATR/5878/10
+# quiz_proj
 
-# Features
-Authentication
-Authorization
-Timer
-Catagorized questions mode
-Leaderboard
-Random questions mode
+A new Flutter project.
 
-# Description
-Our application is a quiz app that is categorized, has a timer, leaderboard and has an easy to understand interface. You can switch between Random and Categorized question modes.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
