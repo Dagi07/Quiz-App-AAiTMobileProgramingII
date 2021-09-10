@@ -14,4 +14,4 @@ Leaderboard
 Random questions mode
 
 # Description
-Our application is a quiz app that is categorized, has a timer, leaderboard and has a easy to understand interface. You can switch between Random and Categorized question modes.
+Our application is a quiz app that is categorized, has a timer, leaderboard and has an easy to understand interface. You can switch between Random and Categorized question modes.
