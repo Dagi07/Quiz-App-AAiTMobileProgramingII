@@ -5,7 +5,7 @@ It has
 - full CRUD operation of questions
 - mongodb for database
 
-## ensureAuthentication middleware protects needed routes.
+## Ensure Authentication Middleware Protects Needed Routes.
 
 ## Major Endpoints:
 
