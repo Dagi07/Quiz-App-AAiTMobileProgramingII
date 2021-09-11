@@ -1,9 +1,9 @@
-# questions-node-api
+# Questions-node-api
 ## questions-node-api is a nodejs JSON api 
 It has 
-- auth with passport(signup, signin of users)
-- full CRUD operation of questions
-- mongodb for database
+- Auth with passport(signup, signin of users)
+- Full CRUD operation of questions
+- Mongodb for database
 
 ## Ensure Authentication Middleware Protects Needed Routes.
 
